@@ -9,6 +9,6 @@
 
 ### Structure Breakdown
 1. **Learnings** contains sorted python programs for paced syntax grasp with self explanatory comments.
-2. **Projects** contains source code for completed prijects and scripts.
+2. **Projects** contains source code for completed projects and scripts.
 
-**PS - Repository will populated casually based on my comfort & interest**
+**PS - Repository will be populated casually based on my comfort & interest**
